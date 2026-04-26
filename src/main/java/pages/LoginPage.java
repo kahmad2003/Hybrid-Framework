@@ -15,7 +15,7 @@ public class LoginPage
 	
 	private By username=By.id("email1");
 	private By password=By.id("password1");
-	private By signInButton=By.className("submit-btn");
+	private By signInButton=By.className("submit-btn1");
 	
 	public void loginToApplication(String uname, String pass) 
 	{
